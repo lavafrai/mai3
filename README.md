@@ -10,3 +10,5 @@
 Разработчик: https://lavafrai.ru/
 
 Поддержать разработку: https://pay.cloudtips.ru/p/e930707c
+
+Проект перенесен в репозиторий https://github.com/lavafrai/maiapp
